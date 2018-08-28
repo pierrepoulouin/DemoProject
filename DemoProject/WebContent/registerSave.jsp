@@ -13,7 +13,7 @@
             
             String url = "jdbc:mysql://localhost:3306/formulaire";
             String user = "root";
-            String pwd= "pwdroot";
+            String pwd= "Pierrebing59";
             
             Connection con=DriverManager.getConnection(url, user, pwd);
             PreparedStatement ps = con.prepareStatement("insert into info values(?,?,?,?)");
