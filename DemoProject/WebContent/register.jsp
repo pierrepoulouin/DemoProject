@@ -10,7 +10,7 @@
 
 Bienvenue sur cette application web.
 
-<CENTER><IMG SRC="images/application.png" width="200" height="150" ALIGN="BOTTOM"> </CENTER>
+<CENTER><IMG SRC="Images/Moi.jpg" width="200" height="150" ALIGN="BOTTOM"> </CENTER>
 
 <div id="nav">
             <ul>
